@@ -1,0 +1,25 @@
+nthu_test_videos
+__pycache__
+.ipynb_checkpoints
+models/karar_model_genis_tez.h5
+models/karar_model_genis.h5
+accuracy.jpg
+alarm.wav
+bitirme iou en son.jpg
+data_for_cnn.py
+data_for_cnn_webcam.py
+data_preparing.ipynb
+dataframe.py
+image2video.py
+data1.pickle
+data2.pickle
+imresize.py
+karar_svm_knn.py
+karar_knn.sav
+karar_svm.sav
+loss.jpg
+NTHU_data_preparing.ipynb
+test_video_no_cnn.py
+test_video_svm_knn.py
+test_webcam_svm_knn.py
+PROJE_DOKUMANLAR
